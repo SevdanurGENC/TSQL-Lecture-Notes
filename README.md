@@ -14,7 +14,6 @@ Bu repoda, 10 - 24 Temmuz 2023 tarihleri arasında BlueMark Akademi Bilgi Teknol
 - Index kavramı giriş
 - Index ile arama algoriması
 - Tablo üzerinde index oluşturma
-- Tablo üzerinde index oluşturma
 - Index bozulmaları
 - Fill factor kavramı
 - Büyük veri uygulaması
