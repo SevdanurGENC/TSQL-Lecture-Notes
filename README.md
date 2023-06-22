@@ -41,18 +41,40 @@ Bu repoda, 10 - 24 Temmuz 2023 tarihleri arasında BlueMark Akademi Bilgi Teknol
 -   TMDB Verilerini Json formatından okuyup SQL e aktarma. 
 
 # 3. Gün
-
-## Analitik Fonksiyonlar	
-Bölüm Sıra	Ders Adı
-1	ROW_NUMBER Fonksiyonu
-2	Rollup Fonksiyonu
-3	CUME_DIST Fonksiyonu
-4	FIRST_VALUE Fonksiyonu
-5	LAG Fonksiyonu
-6	LAST_VALUE Fonksiyonu
-7	LEAD Fonksiyonu
-8	PERCENT_RANK Fonksiyonu
-9	PERCENTILE_CONT Fonksiyonu  
-10	PERCENTILE_DISC Fonksiyonu
-![image](https://github.com/SevdanurGENC/TSQL-Lecture-Notes/assets/5441882/98ef437a-53e0-413b-b4bd-b28cc7c6b34b)
+## Analitik Fonksiyonlar	 
+-   ROW_NUMBER Fonksiyonu
+-   Rollup Fonksiyonu
+-   CUME_DIST Fonksiyonu
+-   FIRST_VALUE Fonksiyonu
+-   LAG Fonksiyonu
+-   LAST_VALUE Fonksiyonu
+-   LEAD Fonksiyonu
+-   PERCENT_RANK Fonksiyonu
+-   PERCENTILE_CONT Fonksiyonu
+-   PERCENTILE_DISC Fonksiyonu
+## T-SQL Diğer Uygulamalar	 
+-   Web servis bağlantısı
+-   Dosyadan veri okuma
+-   Dosyaya kaydetme
+-   CSV, XLS dosyadan veri okuma
+-   Union Komutu
+-   Fulltext Search
+-   Pivot, Unpivot
+-   Dinamik SQL Kullanımı
+-   Try-Catch Blokları
+-   Query Optimizasyonu ve Performans
+## Diğer Konu Başlıkları	 
+-   Execution plan okuma
+-   fonksiyon kullanırken dikkat edilmesi gerekenler
+-   cursor tipleri
+-   If, case when, exists yazarken dikkat etmek gerekenler
+-   temp tablo veya table variable tercihi
+-   Stored Proc-View Karşılaştırma-1
+-   Veri tiplerinin performansa etkisi
+-   Force seek vb hint'ler
+-   Nolock, readpast, holdlock, updlock
+-   Join türleri (inner loop join vs)
+-   Merge komutu
+-   Indexed View
+-   Filtered Index
 
